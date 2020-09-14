@@ -1,0 +1,10 @@
+### Xcode ###
+
+## User settings
+xcuserdata/
+
+## Gcc Patch
+/*.gcno
+
+## File System
+.DS_Store
